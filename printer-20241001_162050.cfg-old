@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 
 [mcu]
 canbus_uuid: 9ed854c7797b
